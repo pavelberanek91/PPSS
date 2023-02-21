@@ -1,0 +1,27 @@
+https://revize-ict-g.rvp.cz/files/rvp-g-vyznacene-zmeny.pdf
+
+1. operace
+2. vstup a výstup
+3. podmínky
+4. cykly
+5. algoritmy
+6. sekvenční algoritmy
+7. kolekce
+8. vlastní funkce
+9. testování
+10. abstraktní datové struktury
+11. výjimky
+12. čtení ze souboru
+13. testování a validace
+---------------------------------
+14. práce s tabulkou a vizualizace dat
+15. řazení, filtrovování, rozpoznávání vzorů a trendů v datech
+16. práce s databází
+17. návrh informačního systému
+18. uživatelské rozhraní
+19. zpracování veledat
+---------------------------------
+20. učení s učitelem
+21. hluboké učení
+22. učení bez učitele
+
