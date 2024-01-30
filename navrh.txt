@@ -5,23 +5,14 @@ https://revize-ict-g.rvp.cz/files/rvp-g-vyznacene-zmeny.pdf
 3. podmínky
 4. cykly
 5. algoritmy
-6. sekvenční algoritmy
+6. vlastní funkce
 7. kolekce
-8. vlastní funkce
-9. testování
-10. abstraktní datové struktury
-11. výjimky
-12. čtení ze souboru
-13. testování a validace
----------------------------------
-14. práce s tabulkou a vizualizace dat
-15. řazení, filtrovování, rozpoznávání vzorů a trendů v datech
-16. práce s databází
-17. návrh informačního systému
-18. uživatelské rozhraní
-19. zpracování veledat
----------------------------------
-20. učení s učitelem
-21. hluboké učení
-22. učení bez učitele
-
+8. práce s daty a vizualizace
+    - práce s tabulkou a vizualizace dat
+    - řazení, filtrovování, rozpoznávání vzorů a trendů v datech
+    - zpracování veledat
+9. učení s učitelem a bez učitele
+10. projekt Flask
+    - uživatelské rozhraní
+    - návrh informačního systému
+    - práce s databází
