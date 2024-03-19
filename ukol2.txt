@@ -1,0 +1,3 @@
+rex,micka,ronald,natálka,jonatán,zoltán
+azor,kulička,ocásek,fousek,strašpytel,zimík
+simona,maňas,nána,otakar,jeliman,krávoslav
